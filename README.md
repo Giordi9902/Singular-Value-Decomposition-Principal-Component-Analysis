@@ -16,7 +16,7 @@ Il lavoro è stato presentato come progetto d'esame durante il corso di Analisi 
 
 🔹 Principal Component Analysis (PCA): matrice di covarianza, diagonalizzazione e connessione con la SVD
 
-🔹 Esempi applicativi:
+🔹 Esempi applicativi
 
 #### Dati gaussiani affetti da rumore
 
